@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	The "recording structure" is setup and the future monitoring of the files is enabled.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Helps make comprehensive commits by including/excluding specific files
+	
