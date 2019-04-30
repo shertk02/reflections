@@ -5,4 +5,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Helps make comprehensive commits by including/excluding specific files
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	'git diff' and 'git diff --staged' helps keep an overview about the changes between repo, stage ond working area
+
+
 	
