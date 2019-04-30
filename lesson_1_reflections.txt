@@ -1,0 +1,29 @@
+Reflection 1
+The old version was running
+So we could see easily, what changes were made
+And compare old and new, weather the replacement was sound or not
+
+Reflection 2
+Easier identify where parts didn't work anymore
+easily revert to the best version, if you went into a dead end
+
+Reflection 3:
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Con: User Error, unexpected crash, may lead to data loss
+Pro: If done properly, much better overview, only relevant changes, easier to use
+
+Reflection 4:
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Dependencies in software developement
+
+Reflection 5:
+How can you use the commands git log and git diff to view the history of files?
+log to identify the versions I want to compare, diff to show the details of the change
+
+Reflection 6:
+How might using version control make you more confident to make changes that could break something? 
+There is always an easy fallback and not too much time and/or ressources are wasted
+
+Reflection 7:
+Now that you have your workspace set up, what do you want to try using Git for?
+I have no idea. I have to find out how to use git in an IDE like Android Studio
