@@ -10,5 +10,24 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	'git diff' and 'git diff --staged' helps keep an overview about the changes between repo, stage ond working area
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+	Code restructuring, working on production code, brainstorming prototypes
+
+How do the diagrams help you visualize the branch structure?
+
+	to understand, which branches are reachable, connected, etc.
 	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	new commit consistiong of all additions/deletions. 
+	Representation to make the concept of parentship, etc. clearer
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pro:saves a lot of work
+		usually generates working code
+
+	Con:no detection of functional duplicates
+		conflicts still require manual work
+		
